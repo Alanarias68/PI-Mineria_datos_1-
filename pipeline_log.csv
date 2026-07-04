@@ -1,0 +1,13 @@
+Paso,Descripción,Filas antes,Filas después
+Eliminar duplicados,Se eliminaron registros completamente duplicados.,8034,8034
+Limpieza de espacios,Se eliminaron espacios sobrantes y se normalizó el texto.,8034,8034
+Estandarización de planes,Se unificaron los nombres de los planes de suscripción.,8034,8034
+Estandarización de países,Se normalizaron los nombres de los países.,8034,8034
+Estandarización de géneros,Se normalizaron los géneros favoritos.,8034,8034
+Conversión de fechas,Se convirtió la columna de fechas al tipo datetime.,8034,8034
+Corrección de fechas futuras,Las fechas futuras fueron reemplazadas por valores nulos.,8034,8034
+Validación de edades,Las edades fuera del rango permitido fueron marcadas como nulas.,8034,8034
+Validación de minutos,Los valores inválidos de minutos fueron reemplazados por nulos.,8034,8034
+Validación de tickets,Los tickets negativos fueron reemplazados por nulos.,8034,8034
+Imputación de datos,Se completaron los valores faltantes utilizando mediana y moda.,8034,8034
+Exportación del dataset limpio,Se guardó el dataset limpio en un archivo CSV para su posterior análisis y entrega.,8034,8034
